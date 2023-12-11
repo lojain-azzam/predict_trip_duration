@@ -15,9 +15,14 @@ PULocationID/DOLocationID/day of the week/hour and has two columns. the first is
 
 4-write a function that read the data file and calls the three functions to finally generate the data frame that is called predictions
 
-Rubric for the assignment:
+#Rubric for the assignment:
+
 -the function definition matches the requirements from input/out/ and functionality
+
 -the code is documented
+
 -the variable naming and function naming are meaningful
+
 -you have to use scipy to compute the t or z scores
+
 -ou should not program functionality that is already exists in a Python package. Don't re-invent the wheel. !!
